@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1502766447 source:g:\code\acm\icpc\uva1585.cpp
+	<cstdio>
+	<cstring>
+
+1502777740 source:g:\code\acm\icpc\uva1586.cpp
+	<cstring>
+	<iostream>
+
+1502765463 source:g:\code\acm\icpc\uva1587.cpp
+	<cstring>
+	<iostream>
+
+1502788241 source:g:\code\acm\icpc\uva1225.cpp
+	<cstring>
+	<iostream>
+
+1502851206 source:g:\code\acm\icpc\uva455.cpp
+	<cstring>
+	<iostream>
+
+1502794366 source:g:\code\acm\icpc\untitled4.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1515811799 source:g:\code\acm\icpc\uva455wa.cpp
+	<cstring>
+
+1502890218 source:g:\code\acm\icpc\uva227.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1502890821 source:g:\code\acm\icpc\uva227wa.cpp
+	<cstring>
+	<iostream>
+
+1504316594 source:g:\code\acm\icpc\uva202.cpp
+	<cstring>
+	<iostream>
+
+1504489157 source:g:\code\acm\icpc\uva10340.cpp
+	<cstring>
+	<iostream>
+
+1504493723 source:g:\code\acm\icpc\uva1368.cpp
+	<cstring>
+	<iostream>
+
+1504495573 source:g:\code\acm\icpc\uva10474.cpp
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1506133369 source:g:\code\acm\icpc\practise.cpp
+	<cstring>
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+
+1515815604 source:g:\code\acm\icpc\dp_0-1.cpp
+	<bits/stdc++.h>
+
